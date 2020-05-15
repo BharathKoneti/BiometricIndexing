@@ -1,0 +1,5 @@
+# BiometricIndexing
+
+
+Fingerprints are one of many forms of biometrics used to identify individuals and verify their identity. Because of their uniqueness and consistency over time, they have been used for identification over centuries .Fingerprint indexing is an efficient technique that greatly improves the performance of Automated Fingerprint Identification Systems.
+Orientation fields can be used to describe interleaved ridge and valley patterns of fingerprint image, providing features useful for fingerprint recognition. We employ moments for extraction of fingerprint representation. Moments are capable of describing fingerprint ridge flow structures. This feature vector gives a compact representation that is important for robust fingerprint indexing. A fingerprint indexing scheme is employed to facilitate efficient and effective classification of the fingerprints. Given a query fingerprint, the purpose of fingerprint indexing is to reduce the number of candidates for fine-matching with a desired accuracy and facilitate the complex search of fingerprints in Automatic Fingerprint Identification System (AFIS).
